@@ -1,0 +1,19 @@
+{
+    "default": {
+        "awscloudformation": {
+            "AuthRoleName": "amp-default-20191002220620-authRole",
+            "UnauthRoleArn": "arn:aws:iam::464768216251:role/amp-default-20191002220620-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::464768216251:role/amp-default-20191002220620-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amp-default-20191002220620-deployment",
+            "UnauthRoleName": "amp-default-20191002220620-unauthRole",
+            "StackName": "amp-default-20191002220620",
+            "StackId": "arn:aws:cloudformation:us-east-1:464768216251:stack/amp-default-20191002220620/64c40d30-e582-11e9-9372-0ad4d2e93658"
+        },
+        "categories": {
+            "auth": {
+                "amp20c4b2fc": {}
+            }
+        }
+    }
+}
